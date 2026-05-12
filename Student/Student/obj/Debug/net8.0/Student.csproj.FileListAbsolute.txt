@@ -1,0 +1,14 @@
+C:\Games\Student\Student\bin\Debug\net8.0\Student.exe
+C:\Games\Student\Student\bin\Debug\net8.0\Student.deps.json
+C:\Games\Student\Student\bin\Debug\net8.0\Student.runtimeconfig.json
+C:\Games\Student\Student\bin\Debug\net8.0\Student.dll
+C:\Games\Student\Student\bin\Debug\net8.0\Student.pdb
+C:\Games\Student\Student\obj\Debug\net8.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Student\Student\obj\Debug\net8.0\Student.AssemblyInfoInputs.cache
+C:\Games\Student\Student\obj\Debug\net8.0\Student.AssemblyInfo.cs
+C:\Games\Student\Student\obj\Debug\net8.0\Student.csproj.CoreCompileInputs.cache
+C:\Games\Student\Student\obj\Debug\net8.0\Student.dll
+C:\Games\Student\Student\obj\Debug\net8.0\refint\Student.dll
+C:\Games\Student\Student\obj\Debug\net8.0\Student.pdb
+C:\Games\Student\Student\obj\Debug\net8.0\Student.genruntimeconfig.cache
+C:\Games\Student\Student\obj\Debug\net8.0\ref\Student.dll
